@@ -1,6 +1,8 @@
 import Link from 'next/link'
+import Head from 'next/head'
+
 const Layout = ({ children, title }) => (
-    <div>
+    <div className="root">
         <header>
             <Link href="/"><a >Home</a></Link>
             <Link href="/about"><a >About</a></Link>
