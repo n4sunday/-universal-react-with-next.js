@@ -1,7 +1,28 @@
 {
-    "scripts": {
-      "dev": "next",
-      "build": "next build",
-      "start": "next start"
-    }
-  }
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "name": "universal-react-with-next.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.0.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n4sunday/universal-react-with-next.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n4sunday/universal-react-with-next.js/issues"
+  },
+  "homepage": "https://github.com/n4sunday/universal-react-with-next.js#readme",
+  "description": ""
+}
